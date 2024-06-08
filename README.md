@@ -29,5 +29,5 @@ I am Gopi Krishna, a passionate Computer Science student at the University of No
 - He/Him
 
 ### ⚡ Fun fact: 
-- I can solve a Rubik's Cube in under 2 minutes and I'm an avid chess player!
+- I'm an avid chess player!
 
